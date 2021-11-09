@@ -1,5 +1,5 @@
-# Smart-SCRB
-Single-cell RNA-seq analysis pipeline for Smart-SCRB method developed by Quantitative Genomics shared resource at Janelia Research Campus, HHMI.
+# Smart-SCRB 
+Single-cell or bulk RNA-seq analysis pipeline for the Smart-SCRB method developed by the Quantitative Genomics shared resource at Janelia Research Campus, HHMI.
 
 This repository contains the scripts necessary to run the Smart-SCRB analysis pipeline developed by Quantitative Genomics for either DGE or WGB methods.
 
