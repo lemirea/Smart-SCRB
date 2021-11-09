@@ -4,10 +4,10 @@ Single-cell RNA-seq analysis pipeline for Smart-SCRB method developed by Quantit
 This repository contains the scripts necessary to run the Smart-SCRB analysis pipeline developed by Quantitative Genomics for either DGE or WGB methods.
 
 Requires:
-STAR v2.7.5 or higher
-RSEM v1.3.0 (for WGB)
-cutadapt v2.10 or higher
-R v4.0 or higher
+- STAR v2.7.5 or higher
+- RSEM v1.3.0 (for WGB)
+- cutadapt v2.10 or higher
+- R v4.0 or higher
 
 The Smart-SCRB assay has several primer sets (DGE, WGB, others not released) that allow us to use a unified chemistry and protocol to create either 
 stranded, barcoded, UMI-containing reads for 3' digital gene expression, or unstranded non-barcoded non-UMI-containing reads for whole gene body RNA-seq 
