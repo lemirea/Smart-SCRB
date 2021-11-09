@@ -27,6 +27,25 @@ as well as in de novo transcriptome assembly.
 Smart-SCRB was first described (without the name) in Cembrowski et al, Cell. 2018a (https://www.cell.com/cell/pdf/S0092-8674(18)30311-8.pdf) and has been used in other
 studies of Drosophila, mice, zebrafish, aphids, and cell lines, some of which are listed below:
 
+de Rus Jacquet A, Tancredi JL, Lemire AL, DeSantis MC, Li WP, O'Shea EK. The LRRK2 G2019S mutation alters astrocyte-to-neuron communication via extracellular vesicles and induces neuron atrophy in a human iPSC-derived model of Parkinson's disease. Elife. 2021 Sep 30;10. doi: 10.7554/eLife.73062. PubMed PMID: 34590578; PubMed Central PMCID: PMC8514240. 
+
+Erwin SR, Bristow BN, Sullivan KE, Kendrick RM, Marriott B, Wang L, Clements J, Lemire AL, Jackson J, Cembrowski MS. Spatially patterned excitatory neuron subtypes and projections of the claustrum. Elife. 2021 Aug 16;10. doi: 10.7554/eLife.68967. PubMed PMID: 34397382; PubMed Central PMCID: PMC8367382. 
+
+Korgaonkar A, Han C, Lemire AL, Siwanowicz I, Bennouna D, Kopec RE, Andolfatto P, Shigenobu S, Stern DL. A novel family of secreted insect proteins linked to plant gall development. Curr Biol. 2021 May 10;31(9):2038. doi: 10.1016/j.cub.2021.03.001. PubMed PMID: 33974861. 
+
+Xu S, Yang H, Menon V, Lemire AL, Wang L, Henry FE, Turaga SC, Sternson SM. Behavioral state coding by molecularly defined paraventricular hypothalamic cell type ensembles. Science. 2020 Oct 16;370(6514). doi: 10.1126/science.abb2494. PubMed PMID: 33060330. 
+
+O'Leary TP, Sullivan KE, Wang L, Clements J, Lemire AL, Cembrowski MS. Extensive and spatially variable within-cell-type heterogeneity across the basolateral amygdala. Elife. 2020 Sep 1;9. doi: 10.7554/eLife.59003. PubMed PMID: 32869744; PubMed Central PMCID: PMC7486123. 
+
+Aso Y, Ray RP, Long X, Bushey D, Cichewicz K, Ngo TT, Sharp B, Christoforou C, Hu A, Lemire AL, Tillberg P, Hirsh J, Litwin-Kumar A, Rubin GM. Nitric oxide acts as a cotransmitter in a subset of dopaminergic neurons to diversify memory dynamics. Elife. 2019 Nov 14;8. doi: 10.7554/eLife.49257. PubMed PMID: 31724947; PubMed Central PMCID: PMC6948953. 
+
+Phillips JW, Schulmann A, Hara E, Winnubst J, Liu C, Valakh V, Wang L, Shields BC, Korff W, Chandrashekar J, Lemire AL, Mensh B, Dudman JT, Nelson SB, Hantman AW. A repeated molecular architecture across thalamic pathways. Nat Neurosci. 2019 Nov;22(11):1925-1935. doi: 10.1038/s41593-019-0483-3. Epub 2019 Sep 16. PubMed PMID: 31527803; PubMed Central PMCID: PMC6819258. 
+
+Cembrowski MS, Wang L, Lemire AL, Copeland M, DiLisio SF, Clements J, Spruston N. The subiculum is a patchwork of discrete subregions. Elife. 2018 Oct 30;7. doi: 10.7554/eLife.37701. PubMed PMID: 30375971; PubMed Central PMCID: PMC6226292. 
+
+
+
+
 
 
 
