@@ -21,7 +21,7 @@ needs gene-level results with a stranded assay (read 2 is the RNA strand, read 1
 
 Smart-SCRB WGB is classic bulk RNA-seq using an unstranded method with no barcodes or UMIs that produces reads along the entire gene body.  This is useful when
 the researcher needs isoform-level results.  Smart-SCRB WGB has been optimized to be stranded at the 5' and 3' ends and unstranded in the middle (due to 
-Nextera library prep).  The Nextera read 1 sequencing primer is fused to the 5'biotin-oligo-dT(30)VN RT primer and Nextera read 2 sequencing primer is fused
+Nextera library prep).  The Nextera read 1 sequencing primer is fused to the oligo-dT(30)VN RT primer and Nextera read 2 sequencing primer is fused
 to the template switch oligo at the 5' end.  Smart-SCRB WGB has been used in single-cell RNA-seq where isoforms are believed to better define cell type differences,
 as well as in de novo transcriptome assembly.
 
